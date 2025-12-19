@@ -1,0 +1,7 @@
+{
+  "name": "PetControl - Integrated Management System",
+  "description": "A comprehensive pet shop and veterinary clinic management dashboard featuring client tracking, service catalog, inventory management, and intelligent scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
